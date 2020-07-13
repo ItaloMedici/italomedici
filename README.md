@@ -1,16 +1,19 @@
-### Hi there 👋
+<br>
+<p align="center">
+Bem Vindo! 👋</p>
 
-<!--
-**ItaloMedici/italomedici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ítalo Medici
 
-Here are some ideas to get you started:
+Um pouco sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Atualmente cursando o 2° Período de Ciência da Computação - UIT
+- 👨‍💻 Designer Gráfico e estudante de UI/UX
+- 🎯 Tenho foco em Frontend e desenvolvimento web
+- 📚  Estudando atualmente JavaScript e CSS
+
+Me siga: <br>
+
+[![Behance Badge](https://img.shields.io/badge/-Portfólio-1769ff?style=flat-square&labelColor=1769ff&logo=behance&logoColor=white&link=[https://www.behance.net/MediciDesigner](https://www.behance.net/MediciDesigner))](https://www.behance.net/MediciDesigner) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ítalo%20Médici-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italomedici)](https://www.linkedin.com/in/italomedici) 
+[![Instagram Badge](https://img.shields.io/badge/-@italo_medici-e1306c?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/italo_medici/](https://www.instagram.com/italo_medici/))](https://www.instagram.com/italo_medici/)
+

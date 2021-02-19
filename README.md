@@ -6,7 +6,7 @@ Bem Vindo! 👋</p>
 
 Um pouco sobre mim:
 
-- 🎓 Atualmente cursando o 2° Período de Ciência da Computação - UIT
+- 🎓 Atualmente cursando o 3° Período de Ciência da Computação - UIT
 - 👨‍💻 Designer Gráfico e estudante de UI/UX
 - 🎯 Tenho foco em Frontend e desenvolvimento web
 - 📚  Estudando atualmente JavaScript e CSS

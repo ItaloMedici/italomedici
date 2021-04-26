@@ -2,8 +2,6 @@
 <h1 align="center">Hi 🤘, I'm Ítalo Médici</h1>
 <h3 align="center">A frontend student and coffee addicted ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=italomedici&label=Profile%20views&color=e6333f&style=flat" alt="italomedici" /> </p>
-
 - 🎓 Currently studying the 3rd period of Computer Science - UIT
 - 👨‍💻 Graphic Designer and UI student
 - 📚 Currently focusing in **React JS, Next JS and NodeJS technologies**
@@ -35,3 +33,5 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=italomedici&show_icons=true&theme=dracula&locale=en" alt="italomedici" />
 </p>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=italomedici&label=Profile%20views&color=e6333f&style=flat" alt="italomedici" /> </p>

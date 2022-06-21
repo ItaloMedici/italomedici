@@ -29,7 +29,7 @@
        
 <div>
 <a href="https://github.com/ItaloMedici">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=italomedici&show_icons=true&theme=dracula&locale=en&layout=compact" alt="italomedici" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italomedici&show_icons=true&theme=dracula&locale=en" alt="italomedici" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=italomedici&show_icons=true&theme=radical&locale=en&layout=compact" alt="italomedici" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=italomedici&show_icons=true&theme=radical&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="italomedici" />
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=italomedici&label=Profile%20views&color=e6333f&style=flat" alt="italomedici" /> </p>

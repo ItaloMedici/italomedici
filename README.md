@@ -3,7 +3,7 @@
 <h2>Hi 🤘, I'm Ítalo Médici</h2>
 <h4>A frontend student and coffee addicted ☕</h4>
 
-- 🎓 Currently studying the 6th period of Computer Science - UIT
+- 🎓 Currently studying the 7th period of Computer Science - UIT
 - 👨‍💻 Graphic Designer and UI student
 - 📚 Currently focusing in **React JS and NodeJS technologies**
 ##

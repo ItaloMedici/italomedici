@@ -1,7 +1,7 @@
 
   
 <h2>Hi 🤘, I'm Ítalo Médici</h2>
-<h4>A frontend student and coffee addicted ☕</h4>
+<h4>Frontend Dev and coffee addicted ☕</h4>
 
 - 🎓 Currently studying the 7th semester of Computer Science - UIT
 - 👨‍💻 Graphic Designer and UI student

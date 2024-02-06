@@ -3,9 +3,6 @@
 <h2>Hi 🤘, I'm Ítalo Médici</h2>
 <h4>Frontend Dev and coffee addicted ☕</h4>
 
-- 🎓 Currently studying the 8th semester of Computer Science - UIT
-- 👨‍💻 Graphic Designer and UI student
-- 📚 Currently focusing in **React JS and NodeJS technologies**
 ##
 <div style="display: flex">
 		<div>

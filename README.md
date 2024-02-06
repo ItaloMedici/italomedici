@@ -3,7 +3,6 @@
 <h2>Hi 🤘, I'm Ítalo Médici</h2>
 <h4>Frontend Dev and coffee addicted ☕</h4>
 
-##
 <div style="display: flex">
 		<div>
 			<h3>Skills 👾</h3>
